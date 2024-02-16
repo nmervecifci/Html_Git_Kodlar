@@ -1,0 +1,17 @@
+/* tag ile kullanımı
+P{
+    background-color: aqua;
+} */
+#paragid{
+    color:red;
+    color: #ff0000;
+    color :rgb(255,0,0);
+    background-color: aqua;
+
+    padding: 15px 20px 25px 30px;
+}
+/* column-count */
+.column-container{
+    column-count: 3;
+    column-gap: 60px;
+}
